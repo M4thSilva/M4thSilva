@@ -1,5 +1,5 @@
 
-### olá ! eu sou o Matheus Oliveira 😉
+<h1> olá ! eu sou o Matheus Oliveira 😉  </h1> 
 
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-815a8a1b8/)
@@ -7,8 +7,8 @@
 [![contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Https://wa.me/5511985943762)
 
 
- - BUSCANDO MEU PRIMEIRO EMPREGO 🧑‍💼
- - ATUALMENTE ESTUDANDO FRONT - END ( SENAI ) 👨‍💻
+ - ALUNO DE ADS ( SENAI )🧑‍💼
+
 
     - certificado em :
 
