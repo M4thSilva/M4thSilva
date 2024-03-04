@@ -9,8 +9,7 @@
 
 
 
-    - certificado em :
-
+ - certificado em :
 - TECNICAS E INSTALAÇÕES DE REDES  ( SENAI ) 🌐
 - AWS PRACTITIONER  ( SENAI ) ☁️
  
