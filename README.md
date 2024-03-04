@@ -7,7 +7,6 @@
 [![contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](Https://wa.me/5511985943762)
 
 
- - ALUNO DE ADS ( SENAI )🧑‍💼
 
 
     - certificado em :
